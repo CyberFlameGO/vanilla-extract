@@ -1,5 +1,13 @@
 # @vanilla-extract/css
 
+## 1.9.2
+
+### Patch Changes
+
+- [#900](https://github.com/vanilla-extract-css/vanilla-extract/pull/900) [`176c026`](https://github.com/vanilla-extract-css/vanilla-extract/commit/176c026fd72bda3fc969ba0d91494540f88488cb) Thanks [@wobsoriano](https://github.com/wobsoriano)! - Bump `@emotion/hash` to 0.9.0
+
+* [#854](https://github.com/vanilla-extract-css/vanilla-extract/pull/854) [`98f8b03`](https://github.com/vanilla-extract-css/vanilla-extract/commit/98f8b0387d661b77705d2cd83ab3095434e1223e) Thanks [@mrm007](https://github.com/mrm007)! - Bundle TypeScript declaration files (`.d.ts`) when building packages
+
 ## 1.9.1
 
 ### Patch Changes
